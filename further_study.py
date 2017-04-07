@@ -155,7 +155,7 @@ def custom_index(input_list, value):
         1
 
     """
-
+    for i in input_list
     return 0
 
 
